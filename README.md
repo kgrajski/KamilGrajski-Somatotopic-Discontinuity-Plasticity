@@ -1,6 +1,9 @@
 #Somatotopic-Discontinuity-Plasticity
 C++ and R code used to generate results for the somatotopic discontinuities plasticity technical report and paper.
 
+Skills applied: C++, R, Shell Programming, AWS, Visual Studio Code, Neurobiology.
+
+
 AUTHOR=Grajski Kamil A. 
 
 TITLE=Emergent Spatial Patterns of Excitatory and Inhibitory Synaptic Strengths Drive Somatotopic Representational Discontinuities and their Plasticity in a Computational Model of Primary Sensory Cortical Area 3b
